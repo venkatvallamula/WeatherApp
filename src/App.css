@@ -1,0 +1,27 @@
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.real-time-weather {
+  margin: 20px;
+}
+
+.real-time-weather input {
+  padding: 10px;
+  margin-right: 10px;
+}
+.autocomplete input {
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.real-time-weather button {
+  padding: 10px;
+}
